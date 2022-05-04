@@ -1,0 +1,30 @@
+.paginacion{
+    display: flex;
+    justify-content: center;
+}
+.atras{
+    background-color: #3700ff64;
+    color:white;
+    border-radius: 10px;
+}
+.adelante{
+    background-color: rgba(50, 47, 255, 0.467);
+    color:white;
+    border-radius: 10px;
+}
+
+.titulo-artuclo{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.fecha-articulo{
+    font-size: 16px;
+    font-style: italic;
+}
+
+.numero-pagina{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0 40px;
+}
